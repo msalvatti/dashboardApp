@@ -15,6 +15,8 @@ Welcome to the Real-Time Dashboard Application!
 
 This project aims to create a responsive and customizable dashboard for real-time data display using Next.js 13, TailwindCSS, and TypeScript. 
 
+It was developed to demonstrate some knowledge acquired in my journey as a developer.
+
 Users will be able to customize the theme of the dashboard and interact with multiple widgets, including charts, tables, and an animated real-time map.
 
 ## Features
