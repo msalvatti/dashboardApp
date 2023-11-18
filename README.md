@@ -7,6 +7,7 @@
 - [Customization](#customization)
 - [Dashboard](#dashboard)
 - [Project Setup](#project-setup)
+- [Demo View](#demo-view)
 
 ## Overview
 
@@ -73,3 +74,9 @@ npm install
 To run the application, execute the following command:
 
 npm start
+
+## Demo View
+
+To access a demo version of the dashboard, use the following address:
+
+https://example-dashboard-app.vercel.app/
