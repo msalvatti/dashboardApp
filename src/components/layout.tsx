@@ -43,7 +43,7 @@ export default function Layout({ children }: LayoutProps) {
           isDarkTheme ? "bg-gray-dark-800 text-white" : "bg-gray-dark-100  text-gray-dark-700"
         }`}
       >
-        <title>Maximiliano Bask Health</title>
+        <title>Real-Time Dashboard Application</title>
         <button
           className={`fixed right-4 p-2 rounded-full cursor-pointer ${
             isDarkTheme ? "text-gray-dark-300" : "text-gray-dark-700"
